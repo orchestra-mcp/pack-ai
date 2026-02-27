@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-ai",
+    "description": "AI and LLM integration skills with RAG, embeddings, and vector search",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["*"],
+    "contents": {
+        "skills": ["ai-agentic"],
+        "agents": ["ai-engineer", "lancedb-engineer"],
+        "hooks": []
+    },
+    "tags": ["ai", "llm", "rag", "embeddings", "vector-search"]
+}
